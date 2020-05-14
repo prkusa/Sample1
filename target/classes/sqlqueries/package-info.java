@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author ram
+ *
+ */
+package sqlqueries;
